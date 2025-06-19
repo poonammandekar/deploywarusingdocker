@@ -1,0 +1,3 @@
+1.Dockerfile contains script to create image for installing and running apache tomcat and deploy sample.war
+2.Docker file is on ansible workstation .the dockerfile script copies Dockerfile from ansible workstation to host
+2.deploy_using_docker file contains script to build image and run container on host machine
